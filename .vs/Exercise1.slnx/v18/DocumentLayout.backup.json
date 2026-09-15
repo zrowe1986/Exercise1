@@ -1,0 +1,59 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Curtis McEwen\\Documents\\GitHub\\VBExercises\\Exercise1\\Exercise1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{37C4B578-0657-0733-2703-9C8DD7812660}|Exercise1.vbproj|c:\\users\\curtis mcewen\\documents\\github\\vbexercises\\exercise1\\exercise1\\exercise1-lucky seven.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{37C4B578-0657-0733-2703-9C8DD7812660}|Exercise1.vbproj|solutionrelative:exercise1-lucky seven.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37C4B578-0657-0733-2703-9C8DD7812660}|Exercise1.vbproj|c:\\users\\curtis mcewen\\documents\\github\\vbexercises\\exercise1\\exercise1\\exercise1-lucky seven.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{37C4B578-0657-0733-2703-9C8DD7812660}|Exercise1.vbproj|solutionrelative:exercise1-lucky seven.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Exercise1-Lucky Seven.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\Curtis McEwen\\Documents\\GitHub\\VBExercises\\Exercise1\\Exercise1\\Exercise1-Lucky Seven.vb",
+              "RelativeDocumentMoniker": "Exercise1-Lucky Seven.vb",
+              "ToolTip": "C:\\Users\\Curtis McEwen\\Documents\\GitHub\\VBExercises\\Exercise1\\Exercise1\\Exercise1-Lucky Seven.vb [Design]",
+              "RelativeToolTip": "Exercise1-Lucky Seven.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-09-14T19:50:46.78Z",
+              "IsPinned": true,
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Exercise1-Lucky Seven.vb",
+              "DocumentMoniker": "C:\\Users\\Curtis McEwen\\Documents\\GitHub\\VBExercises\\Exercise1\\Exercise1\\Exercise1-Lucky Seven.vb",
+              "RelativeDocumentMoniker": "Exercise1-Lucky Seven.vb",
+              "ToolTip": "C:\\Users\\Curtis McEwen\\Documents\\GitHub\\VBExercises\\Exercise1\\Exercise1\\Exercise1-Lucky Seven.vb",
+              "RelativeToolTip": "Exercise1-Lucky Seven.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-09-14T19:54:51.867Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
